@@ -1,0 +1,2 @@
+# MongoDB $inc Operator Type Error
+This repository demonstrates a common error when using the `$inc` operator in MongoDB: passing a non-numeric value to the `$inc` operator. This will result in an error. The solution demonstrates the correct usage of `$inc` ensuring the value is a valid number.
